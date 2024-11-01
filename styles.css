@@ -1,0 +1,48 @@
+textarea{
+	height: 100px;
+	width: 600px;
+	max-width: 900px;
+	max-height: 200px;
+}
+.edit-space{
+	margin-bottom: 10px;
+}
+.edit-name{
+	float: left;
+	width: 300px;
+}
+#fw_source_field,
+#fw_url_field{
+	width: 400px;
+}
+.clear{
+	clear: both;
+	zoom: 1;
+}
+#icon-FWPluginPage{
+	background-position: -552px -5px;
+	background-image: url(/wp-admin/images/icons32.png?ver=20121105);
+}
+.upload {
+	width: 68px;
+}
+
+.popup {
+  background-color:#FFFFFF;
+  border:2px solid #999999;
+  display:none;
+  margin-top: 15px;
+  position:absolute;
+  width:auto;
+  z-index:50;
+  padding: 25px 25px 20px;
+  left: 100px;
+}
+.popup table {
+	line-height: 1.2;
+}
+.wrap .popup  h2 {
+	padding: 0;
+	line-height: 1;
+	font-weight: bold;
+}
